@@ -1,11 +1,15 @@
 ## Welcome to Researchx
 
-Devoted to the investigation of new concepts, Researchx is a site in development.
+Researchx investigates new concepts, Our site is currently in development.
 
-Research Topics
+Topics
+-ZPE
+-Digital Simulation
+-Alternative Education
 -Algorithms
--Artificial Intelligence
+-AI
 -Systems
+-Intentionality
 
 
 
